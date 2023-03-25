@@ -6,3 +6,7 @@ print("успешно!")
 
 a = 2 
 # idjcdicjdicjdicjdicj f ns gbljh ,kz
+
+
+
+#fkdkoekdehello world!
