@@ -2,13 +2,12 @@ print("ваше имя:")
 a = input()
 print('hello', a)
 print("успешно!")
-#так так так ат так так так так
-#так так так ат так так так так
-a = 2 
-#так так так ат так так так так
+ 
+#hello world hello world main main
 
 
-#так так так ат так так так так
+
+
 #изменения ДЛЯ ветки dev
 #fkdkoekdehello world!
 
